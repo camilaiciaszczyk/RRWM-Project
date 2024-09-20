@@ -19,9 +19,6 @@ Files Included
 Analysis.do – Completes all the analysis for the output tables
 Cleaning.do – Cleans the data and all the variables used for analysis
 
-Instructions for Data Preparation and Analysis
-In order to replicate the findings of the project, download the zip file. This zip file contains a folder called “CAnD3 RRWM”, which is your working directory. 
-
 Software Requirements
 Stata/SE 18.0 for Mac (Apple Silicon)
 Revision 30 Aug 2023
